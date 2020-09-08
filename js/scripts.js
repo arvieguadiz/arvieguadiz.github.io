@@ -61,12 +61,3 @@
   });
 
 })(jQuery); // End of use strict
-
-// side nav
-function openNav() {
-  document.getElementById("mySidenav").style.width = "250px"; // 100%
-}
-
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-}
